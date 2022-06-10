@@ -1,1 +1,2 @@
-# 5x5-chess-board-
+# 5x5-chess-board
+Designed for Zuri task 
